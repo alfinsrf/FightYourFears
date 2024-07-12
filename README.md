@@ -28,5 +28,6 @@ Coming soon.
 
 <br>
 
-<h3 align="center">If you need something or have a request, you can contact me</h3>
-<h2 align="center">Thank You</h2>
+<p align='center'>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there,%20I'm%20Alfin👋&section=header&reversal=false&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=If%20you%20need%20something%20or%20have%20a%20request,%20you%20can%20contact%20me&reversal=false&section=footer&fontSize=25&textBg=false&desc=Thank%20You&descSize=40&descAlignY=75)">
+</p>
